@@ -208,6 +208,8 @@ body {
 /* section_3 */
 .section_3 {
     background-image: url(/img/section_3.png);
-    height: 800px;
+    height: 600px;
     background-size: cover;
+    background-position: top center;
+
 }
